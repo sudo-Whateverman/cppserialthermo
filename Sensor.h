@@ -1,11 +1,12 @@
 #ifndef SENSOR_H
 #define SENSOR_H
+#include <iostream>
+#include <stdio.h>
+
 
 class Sensor
 {
 public:
-    Sensor();
-    ~Sensor();
     virtual int get_value();
     virtual int get_name();
 };

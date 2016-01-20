@@ -1,6 +1,9 @@
 #ifndef THERMOCOUPLE_H
 #define THERMOCOUPLE_H
 #include <Sensor.h>
+#include <iostream>
+#include <stdio.h>
+
 
 class thermocouple : public Sensor
 {

@@ -25,11 +25,11 @@ BunchOfTrinkets::~BunchOfTrinkets()
 }
 void BunchOfTrinkets::write_to_csv()
 {
-        csv_file_for_writes->write_to_csv(thermo1);
-        csv_file_for_writes->write_to_csv(thermo2);
-        csv_file_for_writes->write_to_csv(thermo3);
-        csv_file_for_writes->write_to_csv(press1);
-        csv_file_for_writes->write_to_csv(press2);
-        csv_file_for_writes->write_to_csv(press3);
+//        csv_file_for_writes->write_to_csv(thermo1);
+//        csv_file_for_writes->write_to_csv(thermo2);
+//        csv_file_for_writes->write_to_csv(thermo3);
+//        csv_file_for_writes->write_to_csv(press1);
+//        csv_file_for_writes->write_to_csv(press2);
+//        csv_file_for_writes->write_to_csv(press3);
 
 }
